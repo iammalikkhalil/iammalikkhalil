@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 Currently crafting apps with React Native & Node.js. <br>👯 Open to exciting collaborations. <br> 🤝 Seeking guidance in advanced dev techniques. <br> 🌱 Learning the latest in React Native & Node.js. <br>
-💬 Ask me about mobile & backend dev!
+💬 Ask me about mobile & backend dev! <br>
 ⚡ Fun fact: I'm a poet & stage actor too!
 
 ## 🌐 Socials:
